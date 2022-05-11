@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # random-messages
 
 Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
@@ -19,3 +20,6 @@ If someone wants to add or improve something, I invite you to collaborate direct
 
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
+=======
+# random-messages
+>>>>>>> b91d3990560059f5e37d40f235299401dc138a21
